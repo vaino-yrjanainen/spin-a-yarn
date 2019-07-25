@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<b v="1" n="u3AVIGAqSryB3+QT4XCVeA">
+	<r>
+		<f id="xjSCINcvR4q0ZX1Y/FPu/w" i="0.0" d="585744028711.0" d2="0.0" t="All" d1="0.0" d0="0.0">
+			<t>All</t>
+		</f>
+	</r>
+	<c>
+		<f id="G05P8lm2RfiD8vdYSffTuA" i="0.0" d="585744028711.0" d2="0.0" t="To do" d1="0.0" d0="0.0">
+			<t>To do</t>
+		</f>
+		<f id="C4ZIhV1kRPSngrJNBTnv8w" i="0.0" d="585744028711.0" d2="0.0" t="Doing" d1="0.0" d0="0.0">
+			<t>Doing</t>
+		</f>
+		<f id="cewptgt2Tgu6UKV800/eMw" i="0.0" d="585744028711.0" d2="0.0" t="Done" d1="0.0" d0="0.0">
+			<t>Done</t>
+		</f>
+	</c>
+	<i r="xjSCINcvR4q0ZX1Y/FPu/w" c="G05P8lm2RfiD8vdYSffTuA">
+		<c d4="0.0" d3="0.0" d5="0.0" id="rIfnDv9lSaizeU/lKpgZtw" i="585744072396.0" d="585744072396.0" d2="0.0" t="Liput/kielet" d0="585744078219.0" d1="0.0">
+			<s>Liput/kielet</s>
+		</c>
+		<c d4="0.0" d3="0.0" d5="0.0" id="i+vDOkgyTnyjbFG/Nb1qVg" i="585744068024.0" d="585744068023.0" d2="0.0" t="Galleria" d0="585744071358.0" d1="0.0">
+			<s>Galleria</s>
+		</c>
+		<c d4="0.0" d3="0.0" d5="0.0" id="KJ9pwnehQWSWLz4jVAbRSQ" i="585744062952.0" d="585744062952.0" d2="0.0" t="Lankakerät" d0="585744066474.0" d1="0.0">
+			<s>Lankakerät</s>
+		</c>
+		<c d4="0.0" d3="0.0" d5="0.0" id="u1azqQeMS26L/DicEj5iNQ" i="585744054459.0" d="585744054459.0" d2="0.0" t="Hyppivä a-kirjain" d0="585744061443.0" d1="0.0">
+			<s>Hyppivä a-kirjain</s>
+		</c>
+		<c d4="0.0" d3="0.0" d5="0.0" id="1jNBtaqQRyGSh+Bv63YN4w" i="0.0" d="585744028711.0" d2="0.0" t="Logon värit kuntoon" d0="585744053433.0" d1="0.0">
+			<s>Logon värit kuntoon</s>
+			<c>Double-click to edit</c>
+		</c>
+	</i>
+	<h r="xjSCINcvR4q0ZX1Y/FPu/w" c="G05P8lm2RfiD8vdYSffTuA" d="1jNBtaqQRyGSh+Bv63YN4w" t="585744028724.0"/>
+	<h r="xjSCINcvR4q0ZX1Y/FPu/w" c="G05P8lm2RfiD8vdYSffTuA" d="u1azqQeMS26L/DicEj5iNQ" t="585744054459.0"/>
+	<h r="xjSCINcvR4q0ZX1Y/FPu/w" c="G05P8lm2RfiD8vdYSffTuA" d="KJ9pwnehQWSWLz4jVAbRSQ" t="585744062952.0"/>
+	<h r="xjSCINcvR4q0ZX1Y/FPu/w" c="G05P8lm2RfiD8vdYSffTuA" d="i+vDOkgyTnyjbFG/Nb1qVg" t="585744068024.0"/>
+	<h r="xjSCINcvR4q0ZX1Y/FPu/w" c="G05P8lm2RfiD8vdYSffTuA" d="rIfnDv9lSaizeU/lKpgZtw" t="585744072396.0"/>
+	<t d="0.0" slt="true" sct="true"/>
+</b>
