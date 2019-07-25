@@ -1,14 +1,19 @@
 .bg {
-width:100%;
-height:800px;
-background: linear-gradient(to right,   
-    #F2BD00 0%,
-    #F2BD00 50%,
-    #102028 50%,
-    #102028 100%);
-text-align: center;
-font-family: courier;
+	width: 100%;
+	height:800px;
+	background: linear-gradient(to right,   
+	    #F2BD00 0%,
+	    #F2BD00 50%,
+	    #102028 50%,
+	    #102028 100%);
+	text-align: center;
+	font-family: courier;
 }
+
+body{
+        margin: 0px;
+        padding: 0px;
+    }
 
 #spinayarn {
 	padding-top: 10%;
