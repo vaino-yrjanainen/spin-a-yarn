@@ -1,6 +1,6 @@
 .bg {
 	width: 100%;
-	height:800px;
+	min-height: 100vh;
 	background: linear-gradient(to right,   
 	    #F2BD00 0%,
 	    #F2BD00 50%,
@@ -23,6 +23,7 @@ body{
 #finland {
 	font-size: 70pt;
 	padding-top: 20pt;
+	padding-bottom: 70pt;
 }
 .redtext {
 	color: red;/*#CC3354;*/
