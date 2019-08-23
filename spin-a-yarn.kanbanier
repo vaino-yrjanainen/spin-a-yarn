@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<b n="h07y2uvLRxCKMC27+LdlIw" v="1">
+<b n="52TA3tKwQa2wNJ8/fp2Gsg" v="1">
 	<r>
 		<f d0="0.0" i="0.0" d1="0.0" t="All" d="585744028711.0" id="xjSCINcvR4q0ZX1Y/FPu/w" d2="0.0">
 			<t>All</t>
@@ -20,6 +20,9 @@
 		</f>
 	</c>
 	<i c="G05P8lm2RfiD8vdYSffTuA" r="xjSCINcvR4q0ZX1Y/FPu/w">
+		<c d0="585747322845.0" d1="0.0" d2="585747321936.0" d4="0.0" d="585747315396.0" l="yellow" t="Kartta" d3="0.0" id="h07y2uvLRxCKMC27+LdlIw" d5="0.0" i="585747315397.0">
+			<s>Kartta</s>
+		</c>
 		<c d0="585744078219.0" d1="0.0" d2="585747179770.0" d4="0.0" d="585744072396.0" l="yellow" t="Liput/kielet" d3="0.0" id="rIfnDv9lSaizeU/lKpgZtw" d5="0.0" i="585744072396.0">
 			<s>Liput/kielet</s>
 		</c>
@@ -42,5 +45,6 @@
 	<h t="585744062952.0" d="KJ9pwnehQWSWLz4jVAbRSQ" c="G05P8lm2RfiD8vdYSffTuA" r="xjSCINcvR4q0ZX1Y/FPu/w"/>
 	<h t="585744068024.0" d="i+vDOkgyTnyjbFG/Nb1qVg" c="G05P8lm2RfiD8vdYSffTuA" r="xjSCINcvR4q0ZX1Y/FPu/w"/>
 	<h t="585744072396.0" d="rIfnDv9lSaizeU/lKpgZtw" c="G05P8lm2RfiD8vdYSffTuA" r="xjSCINcvR4q0ZX1Y/FPu/w"/>
+	<h t="585747315397.0" d="h07y2uvLRxCKMC27+LdlIw" c="G05P8lm2RfiD8vdYSffTuA" r="xjSCINcvR4q0ZX1Y/FPu/w"/>
 	<t sct="true" slt="true" d="0.0"/>
 </b>
