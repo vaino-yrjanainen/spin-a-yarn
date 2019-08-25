@@ -25,6 +25,16 @@ body{
 	padding-top: 20pt;
 	padding-bottom: 70pt;
 }
+#galleria3 {
+	min-height: 1000px;
+	min-width: 100vw;
+	background-image: url("img/rajattu-1.jpg");
+}
+#galleria2 {
+	min-height: 100vh;
+	min-width: 100vw;
+	background-image: url("img/HP-tabletit-2.jpg");
+}
 .redtext {
 	color: red;/*#CC3354;*/
 }
