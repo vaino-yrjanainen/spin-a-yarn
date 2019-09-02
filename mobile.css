@@ -1,7 +1,7 @@
 /* Stylesheet for mobile clients */
 @media screen and (max-width: 700px) {
     .bg {
-        min-height: 100vh;
+        min-height: 90vh;
 
     }
 
