@@ -118,37 +118,4 @@ a:hover {
 
 }
 
-
-.row {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-/* Create four equal columns that sits next to each other */
-.column {
-  flex: 25%;
-  max-width: 25%;
-}
-
-.column img {
-  vertical-align: middle;
-  width: 100%;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 1200px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 700px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
-}
-
 @-webkit-keyframes flip-2-hor-top-1{0%{-webkit-transform:translateY(0) rotateX(0);transform:translateY(0) rotateX(0);-webkit-transform-origin:50% 0;transform-origin:50% 0}100%{-webkit-transform:translateY(-100%) rotateX(-180deg);transform:translateY(-100%) rotateX(-180deg);-webkit-transform-origin:50% 100%;transform-origin:50% 100%}}@keyframes flip-2-hor-top-1{0%{-webkit-transform:translateY(0) rotateX(0);transform:translateY(0) rotateX(0);-webkit-transform-origin:50% 0;transform-origin:50% 0}100%{-webkit-transform:translateY(-100%) rotateX(-180deg);transform:translateY(-100%) rotateX(-180deg);-webkit-transform-origin:50% 100%;transform-origin:50% 100%}}
