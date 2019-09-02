@@ -1,0 +1,40 @@
+/* Stylesheet for mobile clients */
+@media screen and (max-width: 700px) {
+    .bg {
+        min-height: 100vh;
+
+    }
+
+    #footer-div {
+        font-size: 15pt;
+    }
+
+    #spinayarn {
+    	padding-top: 30%;
+        font-size: 90pt;
+    }
+
+    #finland {
+        font-size: 45pt;
+    }
+
+    #text-container>div {
+        font-size: 15pt;
+
+        margin-left: 30px;
+        margin-right: 30px;
+
+    }
+
+    #text-container>h1 {
+        font-size: 50pt;
+        text-shadow: #c9bd8f 1px 1px, #c9bd8f 2px 2px;
+    }
+
+    #yhteydenotto {
+        padding-top: 30pt;
+        font-size: 18pt;
+        text-decoration: underline;
+
+    }
+}
