@@ -88,6 +88,13 @@ body {
 
 }
 
+a {
+	color: black;
+}
+a:hover {
+	color: gray;
+}
+
 #text-container > h1 {
 	font-size: 60pt;
 	text-decoration: underline;
