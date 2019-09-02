@@ -10,10 +10,36 @@
 	font-family: courier;
 }
 
-body{
-        margin: 0px;
-        padding: 0px;
-    }
+#text-container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+footer {
+	background-color: #102028;
+	min-height: 100px;
+	/*background-color: #102028;*/
+	
+	background: linear-gradient(to left,   
+    #F2BD00 0%,
+    #F2BD00 50%,
+    #102028 50%,
+    #102028 100%);
+    font-family: courier;
+    color: white;
+}
+
+#footer-div {
+	padding-top: 7vh;
+	padding-bottom: 9vh;
+	text-align: center;
+	text-shadow: #1E2449 1px 1px, #1E2449 2px 2px;
+	font-size: 20pt;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
 
 #spinayarn {
 	padding-top: 10%;
@@ -28,8 +54,8 @@ body{
 
 .galleria {
 	min-height: 70vw;
-	  background-size: cover;
-  background-repeat: no-repeat;
+	background-size: cover;
+  	background-repeat: no-repeat;
 
 }
 .redtext {
@@ -49,12 +75,12 @@ body{
 	text-align: center;
 	font-family: courier;
 	padding-top: 20pt;
-	padding-bottom: 60pt;
+	padding-bottom: 30pt;
 
 }
 
 
-.valkoinen > div {
+#text-container > div {
 	font-size: 20pt;
 
 	margin-left: 30px;
@@ -62,15 +88,15 @@ body{
 
 }
 
-.valkoinen > h1 {
+#text-container > h1 {
 	font-size: 60pt;
 	text-decoration: underline;
-
+	text-shadow: #c9bd8f 1px 1px, #c9bd8f 2px 2px, #c9bd8f 3px 3px;
 }
 
 #yhteydenotto {
 	padding-top: 40pt;
-	font-size: 30pt;
+	font-size: 20pt;
 	text-decoration: underline;
 
 }
