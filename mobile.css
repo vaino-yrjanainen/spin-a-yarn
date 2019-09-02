@@ -10,7 +10,7 @@
     }
 
     #spinayarn {
-    	padding-top: 30%;
+    	padding-top: 25%;
         font-size: 90pt;
     }
 
@@ -36,5 +36,9 @@
         font-size: 18pt;
         text-decoration: underline;
 
+    }
+
+    #yhteydenotto > div {
+    	font-size: 14pt;
     }
 }
