@@ -8,11 +8,23 @@
 	    #102028 100%);
 	text-align: center;
 	font-family: courier, "Courier New", Courier New, monospace, sans-serif;
+	position: relative;
+}
+
+.languages {
+    bottom: 0px; 
+    font-size: 24pt;
+    float: right;
+    margin-right: 5vw;
 }
 
 #text-container {
 	max-width: 1200px;
 	margin: 0 auto;
+}
+
+.activeLang {
+	text-decoration: underline;
 }
 
 footer {
