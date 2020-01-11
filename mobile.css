@@ -18,7 +18,7 @@
         font-size: 45pt;
     }
 
-    #text-container>div {
+    #text-container>p {
         font-size: 15pt;
 
         margin-left: 30px;
@@ -31,7 +31,7 @@
         text-shadow: #c9bd8f 1px 1px, #c9bd8f 2px 2px;
     }
 
-    #yhteydenotto {
+    #text-container>h2 {
         padding-top: 30pt;
         font-size: 18pt;
         text-decoration: underline;
