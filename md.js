@@ -7,7 +7,9 @@ var supportedLanguages = ["fi", "sv", "fr", "en"];
 
 var defaultLanguage = window.navigator.language
 
-window.onload = function populate() {
+
+function populate() {
+	console.log("populate");
 	//document.getElementById("body").innerHTML = html;
 	Promise.all([
 	  fetch('fi.md').then(x => x.text()),
@@ -28,6 +30,11 @@ window.onload = function populate() {
   		}
 	} 
 }
+
+// Load text once DOM has been loaded
+document.addEventListener('DOMContentLoaded', function () {
+   populate();
+});
 
 
 function setLanguage(language) {
